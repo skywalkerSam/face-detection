@@ -22,7 +22,12 @@ vite build
 npm run deploy
 ```
 
-- Using `render` for backend deployment
+
+
+## Deployment Info
+
+- `Netlify` for frontend
+- `Render` for fronted & backend both... lol ;)
 
 
 
