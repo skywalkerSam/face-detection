@@ -18,7 +18,9 @@ vite
 ```shell
 vite build
 ```
-
+```shell
+npm run deploy
+```
 
 - Using `render` for backend deployment
 
