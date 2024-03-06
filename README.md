@@ -5,7 +5,7 @@ Under Development!
 A simple `face-detection` application using `clarifai`. This project is made with `create-react-app`, and deployed on `github-pages`, and it works. [Here...](https://skywalkersam.github.io/face-detection/)
 
 
-
+## Some useful commands
 ```shell
 npm init vite@latest
 ```
